@@ -1,0 +1,5 @@
+Nom	prenom	 age 
+Rabi 	cheikh	30
+Diakhite medlemine 15
+Tall	Aboubacry 50
+camara	assa	30
